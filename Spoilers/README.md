@@ -1,0 +1,1 @@
+Creating an extension to xtension to your browser that obscures all mentions of the show or movie you’re interested in seeing.
